@@ -29,10 +29,10 @@ Below is a little about what I know, and what I have done. Enjoy!
 ---
 
 ### 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xhilgerz&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xhilgerz&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xhilgerz&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xhilgerz&theme=synthwave)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xhilgerz&theme=synthwave)
 
 
 ---
