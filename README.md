@@ -34,8 +34,3 @@ Below is a little about what I know, and what I have done. Enjoy!
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zander-brysch)
 
-![Xhilgerz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhilgerz&show_icons=true&theme=tokyonight)
-
-![Xhilgerz's Graph](https://github-readme-activity-graph.vercel.app/graph?username=xhilgerz&theme=tokyo-night)
-
-
