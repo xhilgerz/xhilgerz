@@ -1,4 +1,13 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Hey+I'm+Xhilgerz!;Full-Stack+Developer;AI+and+Data+Science+Enthusiast)](https://git.io/typing-svg)
+
+
+### 👋 About Me
+I'm a passionate Computer Science student at UTSA, deeply interested in software engineering, AI, full-stack web development, and app development.  
+I love turning creative ideas into practical tools — from Allergy Snatcher, a dietary-restriction app, to Threadly, a clothing manager app.
+Below is a little about what I know, and what I have done. Enjoy!
+
+
 ### 🧩 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
