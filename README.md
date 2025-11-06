@@ -11,7 +11,6 @@
 I'm a passionate **Computer Science student at UTSA**, deeply interested in **software engineering**, **AI**, **full-stack web**, and **app development**.  
 I love turning creative ideas into real tools — from **Allergy Snatcher**, a dietary-restriction app, to **Threadly**, a clothing manager app.  
 <br>  
-🕹️ *Coding with neon lights and lo-fi beats since 2020.*
 
 ---
 
@@ -67,11 +66,5 @@ I love turning creative ideas into real tools — from **Allergy Snatcher**, a d
   <img src="https://github-readme-streak-stats.herokuapp.com?user=xhilgerz&theme=synthwave&hide_border=true&background=0D1117&ring=FF66C4&fire=00FFFF&currStreakLabel=FF66C4"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=synthwave" width="400"/>
-</p>
-
-<p align="center"><i>✨ Keep coding, stay cosmic ✨</i></p>
 
