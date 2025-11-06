@@ -29,18 +29,16 @@ Below is a little about what I know, and what I have done. Enjoy!
 ---
 
 ### 📊 GitHub Stats
-![Xhilgerz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhilgerz&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xhilgerz&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xhilgerz&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xhilgerz&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xhilgerz&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhilgerz&layout=compact&theme=tokyonight)
 
 ---
 
 ### Project Summaries
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xhilgerz&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xhilgerz&theme=tokyonight)
 
 
 ---
