@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Hey+I'm+Xhilgerz!;Full-Stack+Developer;AI+and+Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Hey+I'm+Xhilgerz!;Full-Stack+Developer;AI+and+Data+Science+Enthusiast;App+Developer;)](https://git.io/typing-svg)
 
 
 ### 👋 About Me
