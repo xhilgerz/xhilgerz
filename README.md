@@ -1,5 +1,14 @@
 <!-- HEADER -->
-<h1 align="center">Hey, I'm <span style="color:#FF66C4">Xhilgerz</span></h1>
+ ___    ___ ___  ___  ___  ___       ________  _______   ________ ________     
+|\  \  /  /|\  \|\  \|\  \|\  \     |\   ____\|\  ___ \ |\   __  \\_____  \    
+\ \  \/  / | \  \\\  \ \  \ \  \    \ \  \___|\ \   __/|\ \  \|\  \|___/  /|   
+ \ \    / / \ \   __  \ \  \ \  \    \ \  \  __\ \  \_|/_\ \   _  _\  /  / /   
+  /     \/   \ \  \ \  \ \  \ \  \____\ \  \|\  \ \  \_|\ \ \  \\  \|/  /_/__  
+ /  /\   \    \ \__\ \__\ \__\ \_______\ \_______\ \_______\ \__\\ _\\________\
+/__/ /\ __\    \|__|\|__|\|__|\|_______|\|_______|\|_______|\|__|\|__\|_______|
+|__|/ \|__|                                                                    
+                                                                               
+                                                                               
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66C4&width=500&lines=Full-Stack+Developer;AI+and+Data+Science+Enthusiast;App+Developer;" alt="Typing SVG" />
