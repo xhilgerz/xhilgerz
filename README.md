@@ -6,6 +6,7 @@ I'm a passionate Computer Science student at UTSA, deeply interested in software
 I love turning creative ideas into practical tools — from Allergy Snatcher, a dietary-restriction app, to Threadly, a clothing manager app.
 Below is a little about what I know, and what I have done. Enjoy!
 
+---
 
 ### 🧩 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
