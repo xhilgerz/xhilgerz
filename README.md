@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<h1 align="center">🌌 Hey, I'm <span style="color:#FF66C4">Xhilgerz</span> ⚡</h1>
+<h1 align="center">Hey, I'm <span style="color:#FF66C4">Xhilgerz</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66C4&width=500&lines=Full-Stack+Developer;AI+and+Data+Science+Enthusiast;App+Developer;Synthwave+Soul+in+Code+Form;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF66C4&width=500&lines=Full-Stack+Developer;AI+and+Data+Science+Enthusiast;App+Developer;" alt="Typing SVG" />
 </p>
 
 ---
