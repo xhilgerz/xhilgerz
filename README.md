@@ -19,7 +19,7 @@
 
 ### 👾 About Me
 I'm a passionate **Computer Science student at UTSA**, deeply interested in **software engineering**, **AI**, **full-stack web**, and **app development**.  
-I love turning creative ideas into real tools — from **Allergy Snatcher**, a dietary-restriction app, to **Threadly**, a clothing manager app.  
+I love turning creative ideas into real tools — from **Allergy Snatcher**, a dietary-restriction website, to **Threadly**, a clothing manager app.  
 <br>  
 
 ---
